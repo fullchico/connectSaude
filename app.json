@@ -1,0 +1,12 @@
+{
+  "name": "connectsaude",
+  "displayName": "connectsaude",
+  "expo": {
+    "name": "connectsaude",
+    "slug": "connectsaude",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
